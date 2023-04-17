@@ -3,8 +3,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 import requests
-import numpy as np
-import matplotlib as plt
+
 
 #Keeping the layout as wide by default
 
